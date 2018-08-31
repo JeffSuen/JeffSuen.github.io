@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/IMG_1424.jpg
 title: eSports Club
-permalink: projects/micromouse
+permalink: projects/esportsclub
 # All dates must be YYYY-MM-DD format!
 date: 2015-05-05
 labels:
@@ -20,4 +20,4 @@ My own personal endeavors to participate in local eSports involved creating my o
 
 The tournament itself was very competitive and led me to push myself in terms of being a leader for a team. I learned leadership skills, schedule planning skills, and networking skills as we had to coordinate with other school's representatives and the overall program director himself. A lot of our hard work paid off in the end as I became close associates with some of the other representatives, some of which I still talk to today, along with the tournament director Quincy Solano becoming one of my close associates and eventually mentor for my high school Senior Project.
 
-<img class="ui image" src="../images/IMG_1425.jpg">
+<img class="ui image" src="../images/HSC_Interview.PNG">
