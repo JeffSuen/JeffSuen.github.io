@@ -13,8 +13,7 @@ labels:
 summary: 3D Platformer created for ICS 485 Video Game Design in Fall 2017.
 projecturl: https://aesplozion.wixsite.com/dynamicdreamers
 ---
-
-<img class="ui medium right floated rounded image" src="../Joel_Shibata_MC_Concept_Art.png">
+  <img class="ui image" src="../images/Joel_Shibata_MC_Concept_Art.png">
 
 Voices of the Land was a collaborative 5 man project between two computer science undergraduate students and three ACM (Academy for Creative Media) students. The idea for the game and story was mine and was developed alongside the rest of my team. The genre of the game is Action Platformer and was worked on from the beginning of the Fall 2017 semester till the end using the Unity Game Engine
 
