@@ -1,0 +1,19 @@
+---
+layout: project
+type: project
+image: images/IMG_1424.jpg
+title: eSports Club
+permalink: projects/micromouse
+# All dates must be YYYY-MM-DD format!
+date: 2015-05-05
+labels:
+  - eSports
+  - League of Legends
+summary: Created a club specifically based around eSports at Roosevelt High School.
+---
+<img class="ui image" src="../images/IMG_1425.jpg">
+
+In high school I took the up the role of making an eSports club which comprised of over 50 members at the time. The premise of the club was
+based around my increasing involvement and interest in the local and national eSports community. I wanted to bring the excitement and feelling
+of inclusion to my own community within school and foster a sense of teamwork and comraderie that you'd only typically find in a traditional
+sport.
