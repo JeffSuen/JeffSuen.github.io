@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/Joel_Shibata_MC_Idle1.png
+title: Voices of the Land
+permalink: projects/voicesoftheland
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 20167-10-7
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Video Game
+  - Unity
+  - C#
+summary: 3D Platformer created for ICS 485 Video Game Design in Fall 2017.
+projecturl: https://aesplozion.wixsite.com/dynamicdreamers
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
