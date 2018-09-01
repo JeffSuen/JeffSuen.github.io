@@ -1,61 +1,30 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/DSCN1157.JPG
+title: Musical Career
+permalink: projects/cellistlife
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2016-06-17
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Music
+  - Cello
+summary: My musical career, the places it took me, and the skills it gave me.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+From the age of 9 to 18, I had been playing cello and dedicating a large chunk of my life as a musician and a player. It was one of my biggest hobbies and definitely my proudest one.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+As the years went by I had kept playing and got better as I went through various segments of my life. The start of it for me was entering a novice program ran by the Hawaii Youth Symphony for new musicians and after that I moved on to playing for the orchestra of my middle school settling as the cello's Section Leader for my years there. Moving on to high school I started taking formal lessons and met my cello mentor and tutor Stan Kim.
 
-To give you a flavor of the game, here is an excerpt from one run:
+Mr.Kim pushed me harder than I ever did for myself and brought out the talent lying underneath leading me to become the Section Leader again from my junior year in high school all the way to my senior year. Apart from school, he also encouraged me to pursue outside music programs to further refine my skills in a setting where all my peers worked hard and had just as much talent. As a result I ended up auditioning for a position in the Hawaii Youth Symphony for youths of grades 8 to 12 for which I ended up in Hawaii Youth Symphony II, the second highest symphonic orchestra. I stayed as a part of HYS II from 2013-2014 where I had to audition separately for each year landing 7th seat, and Principal Cellist in each respective year.
 
-<hr>
+Towards the end of my time in high school my mentor Mr.Kim had two final destinations for me. First, the University of Hawaii at Manoa orchestra program invited me and the rest of Mr.Kim's students to particpate in a special Cello-only emsemble for which we practiced for two months and was conducted by the esteemed Henry Miyamura who has been a leading figure in Hawaii's orchestral scene for many decades. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+<img class="ui image" src="../images/UH_Cello_Ensemble.PNG">
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+Secondly the high school students all participate in the Solo and Music Ensemble Festival also hosted by the UNiversity of Hawaii at Manoa where students were to be judged for a one song performance. My many months of practice leading up to that event landed me an extremely high rating among the judges and an offer for a scholarship to be in the UHM Symphonic Orchestra by one of the judges who was a professor in the music department.
 
-pickup candle
-- you are now carrying the candle -
+Living life as a musician taught me skills that I wouldn't have been able to learn anywhere else. It pushed me to work towards a craft and taught me what it meant to truly have a passion. It taught me humility knowing that no matter how good I was or thought I was, there was always someone better and that made me realize that no matter what there's always higher heights to strive for. My musical career was long lived and gave me many valuable life lessons to which I still value to this day.
 
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
