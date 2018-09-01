@@ -5,7 +5,7 @@ image: images/Joel_Shibata_MC_Idle1.png
 title: Voices of the Land
 permalink: projects/voicesoftheland
 # All dates must be YYYY-MM-DD format!
-date: 2017-10-7
+date: 2017-10-07
 labels:
   - Video Game
   - Unity
