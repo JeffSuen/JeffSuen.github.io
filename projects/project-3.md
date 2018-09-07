@@ -23,7 +23,7 @@ Towards the end of my time in high school my mentor Mr.Kim had two final destina
 <img class="ui image" src="../images/UH_Cello_Ensemble.PNG">
 
 
-Secondly the high school students all participate in the Solo and Music Ensemble Festival also hosted by the UNiversity of Hawaii at Manoa where students were to be judged for a one song performance. My many months of practice leading up to that event landed me an extremely high rating among the judges and an offer for a scholarship to be in the UHM Symphonic Orchestra by one of the judges who was a professor in the music department.
+Secondly the high school students all participate in the Solo and Music Ensemble Festival also hosted by the University of Hawaii at Manoa where students were to be judged for a one song performance. My many months of practice leading up to that event landed me an extremely high rating among the judges and an offer for a scholarship to be in the UHM Symphonic Orchestra by one of the judges who was a professor in the music department.
 
 Living life as a musician taught me skills that I wouldn't have been able to learn anywhere else. It pushed me to work towards a craft and taught me what it meant to truly have a passion. It taught me humility knowing that no matter how good I was or thought I was, there was always someone better and that made me realize that no matter what there's always higher heights to strive for. My musical career was long lived and gave me many valuable life lessons to which I still value to this day.
 
