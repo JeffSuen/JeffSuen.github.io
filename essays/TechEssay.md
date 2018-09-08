@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: A Fated Encounter
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2018-08-31
 labels:
   - Software Engineering
   - Learning
