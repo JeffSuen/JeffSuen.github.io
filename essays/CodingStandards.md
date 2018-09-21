@@ -16,6 +16,9 @@ For the first time in my year and a half of studying Computer Science, I was tre
 
 As beginners we get away with learning to program to complete the assignment, not necessarily fulfill the given requirements and implementations as it probably should be. In this class, we all got hit with a lethal dose of real world within the first week where our very first assignment was due. We learned to program in C, as mentioned before, using a text editor within the UH Unix system so we got hit with a double whammy right off the start. We go from sitting in our IDE cribs to being put in this helpless environment that doesn't tell us whether or not we made any errors at all. This environment even had the audacity to not display the rest of the function prototype for us. In the mind of a year and a half old programmer, who does that???
 
+<img class="ui image" src="../images/dead_programmer.jpg">
+
+
 I was failing assignments purely on trivial things like not indenting with 4 spaces instead of using the tab key and not right justifying my console output correctly and all of this had me teetering over the edge. For the first few weeks I constantly struggled to stay afloat which had me feeling like a helpless animal. But like all helpless animals stranded in the wilderness, we learn to adapt. I had learned the hard way and became hungry, obsessed even for success. I started writing code on paper, I learned to listen to the client, I hit that space bar four, eight, however many times I needed to in order to attain that sweet 'A' grade. Living life teetering on that cliff you develop a zen gets you through everything. Hours start zooming by when doing work and you start becoming something so startingly better than you were before, minus the sanity.
 
 <img class="ui image" src="../images/coding_zen.jpg">
