@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/DSCN1157.JPG
+image: images/orchestra_photo.png
 title: Musical Career
 permalink: projects/cellistlife
 # All dates must be YYYY-MM-DD format!
