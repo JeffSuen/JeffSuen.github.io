@@ -25,16 +25,6 @@
         "username": "JeffreySuen",
         "url": "https://www.linkedin.com/in/jeffreysuen"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
@@ -64,11 +54,13 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets/Frameworks",
       "level": "",
       "keywords": [
         "Git/GitHub",
         "Unity Development Tool",
+        "Semantic UI",
+        "React",
       ]
     }
   ],
@@ -99,44 +91,37 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Kawananakoa Middle School Summer Program",
+      "website": "",
+      "position": "Assistant Music Teacher",
+      "startDate": "2011-6-15",
+      "endDate": "2017-7-15",
+      "summary": "Instructed cello to novice-advanced instrumentalists",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Month long program to teach music to middle schoolers",
+        "Taught basics to beginners and advanced techniques to returnees"
       ]
     },
     {
-      "organization": "",
+      "organization": "eSports Hawaii",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "High School eSports Representative",
+      "startDate": "2014-9-13",
+      "endDate": "2015-5-26",
+      "summary": "Communicated as a representative for the esports team at Roosevelt High School",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Managed relations and communications with multiple other high school representatives",
+        "Was in charge of scheduling inter-high school matches",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Senior Honor Award",
+      "date": "2014-2015",
+      "awarder": "Roosevelt High School Music Department",
+      "summary": "Given to notable music students whose ability and dedication enhanced the entire orchestra."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
