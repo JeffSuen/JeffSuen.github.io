@@ -12,7 +12,7 @@ labels:
   - Meteor
 summary: Building a UH service geared towards furthering our students' studies.
 ---
-<img class="ui image" src="../images/StudBudd_screenshot.png">
+<img class="ui image" src="../images/StudBudd_screenshot.PNG">
 
 StuddBudd is an online web-app designed by 5 students in the UH Manoa ICS 314 Software engineering course of Fall 2018 to help students find willing mentors to tutor them in a specific subjects. To start this off, please feel free to browse through our github page if you'd like: [click me!](https://studbudd.github.io/). This page contains instructions for installation alongside some of our progress across our three major milestones for this project.
 
