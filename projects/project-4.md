@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/StuddBudd_badge.png
+image: images/StudBudd_badge.png
 title: StudBudd
 permalink: projects/StuddBudd
 # All dates must be YYYY-MM-DD format!
