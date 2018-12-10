@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IMG_1424.JPG
+image: images/HSC_trophy.png
 title: eSports Club
 permalink: projects/esportsclub
 # All dates must be YYYY-MM-DD format!
